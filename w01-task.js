@@ -5,6 +5,7 @@ console.log(`Username: ${userName}`);
 userName = "Moronihah";
 console.log(`Username: ${userName}`);
 
+
 // 🔍 Part 2 error - this error was fixed in line 10 (DateTime => Date())
 //const currentDateAndTime = DateTime;
 const currentDateAndTime = Date()
