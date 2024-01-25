@@ -22,6 +22,8 @@ const foodElement = document.querySelector("#food");
 nameElement.innerHTML = `<strong>${fullName}</strong>`;
 yearElement.textContent = currentYear;
 imageElement.setAttribute("src", profilePicture);
+document.querySelector("img").setAttribute('width', "240px");
+document.querySelector("img").setAttribute('height', "300px");
 imageElement.setAttribute("alt", " This is ${fullName}. He is a math teacher at CMR.");
 
 
