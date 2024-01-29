@@ -2,9 +2,13 @@
 
 /* FUNCTIONS */
 /* Function Definition - Add Numbers */
- const add = (x,y) => x+y;
+ //const add = (x,y) => x+y;
+ function add (number1,number2) {
+    return number1 + number2;
+ }
 
- const addNumbers = () => {
+ //const addNumbers = () => {
+function addNumbers() {
      let addNumber1 = parseFloat(document.getElementById("add1").value);
      let addNumber2 = parseFloat(document.getElementById("add2").value);
      let sum = add(addNumber1, addNumber2);
@@ -19,9 +23,13 @@
 //     return subtract1 - subtract2;
 // }
 
-const subtract = (x,y) => x-y;
+//const subtract = (x,y) => x-y;
+function subtract (number1,number2) {
+    return number1 - number2;
+ }
 
- const subtractNumbers = () => {
+// const subtractNumbers = () => {
+function subtractNumbers() {
      let subtractNumber1 = parseFloat(document.getElementById("subtract1").value);
      let subtractNumber2 = parseFloat(document.getElementById("subtract2").value);
      let difference = subtract(subtractNumber1, subtractNumber2);
@@ -32,9 +40,13 @@ const subtract = (x,y) => x-y;
 
 
 /* Arrow Function - Multiply Numbers */
-const multiply = (x,y) => x * y;
+//const multiply = (x,y) => x * y;
+function multiply (factor1,factor2) {
+    return factor1 * factor2;
+ }
 
- const multiplyNumbers = () => {
+ //const multiplyNumbers = () => {
+function multiplyNumbers() {
      let factor1 = parseFloat(document.getElementById("factor1").value);
      let factor2 = parseFloat(document.getElementById("factor2").value);
      let product = multiply(factor1, factor2);
@@ -44,9 +56,13 @@ const multiply = (x,y) => x * y;
  document.getElementById("multiplyNumbers").addEventListener("click", multiplyNumbers);
 
 /* Open Function Use - Divide Numbers */
-const divide = (x,y) => x / y;
+//const divide = (x,y) => x / y;
+function divide (dividend,divisor) {
+    return dividend / divisor;
+ }
 
-const divideNumbers = () => {
+//const divideNumbers = () => {
+function divideNumbers() {
     let dividend = parseFloat(document.getElementById("dividend").value);
     let divisor = parseFloat(document.getElementById("divisor").value);
     let quotient = divide(dividend, divisor);
