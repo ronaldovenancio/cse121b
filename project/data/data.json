@@ -1,0 +1,137 @@
+[
+    {
+        "num": 1,
+        "name": "Acre",
+        "flag": "Acre.webp"
+    },
+    {
+        "num": 2,
+        "name": "Alagoas",
+        "flag": "Alagoas.webp"
+    },
+    {
+        "num": 3,
+        "name": "Amapa",
+        "flag": "Amapa.webp"
+    },
+    {
+        "num": 4,
+        "name": "Amazonas",
+        "flag": "Amazonas.webp"
+    },
+    {
+        "num": 5,
+        "name": "Bahia",
+        "flag": "Bahia.webp"
+    },
+    {
+        "num": 6,
+        "name": "Ceara",
+        "flag": "Ceara.webp"
+    },
+    {
+        "num": 7,
+        "name": "Distrito Federal",
+        "flag": "DistritoFederal.webp"
+    },
+    {
+        "num": 8,
+        "name": "Espirito Santo",
+        "flag": "EspiritoSanto.webp"
+    },
+    {
+        "num": 9,
+        "name": "Goias",
+        "flag": "Goias.webp"
+    },
+    {
+        "num": 10,
+        "name": "Maranhao",
+        "flag": "Maranhao.webp"
+    },
+    {
+        "num": 11,
+        "name": "Mato Grosso",
+        "flag": "MatoGrosso.webp"
+    },
+    {
+        "num": 12,
+        "name": "Mato Grosso do Sul",
+        "flag": "MatoGrossodoSul.webp"
+    },
+    {
+        "num": 13,
+        "name": "Minas Gerais",
+        "flag": "MinasGerais.webp"
+    },
+    {
+        "num": 14,
+        "name": "Para",
+        "flag": "Para.webp"
+    },
+    {
+        "num": 15,
+        "name": "Paraiba",
+        "flag": "Paraiba.webp"
+    },
+    {
+        "num": 16,
+        "name": "Parana",
+        "flag": "Parana.webp"
+    },
+    {
+        "num": 17,
+        "name": "Pernambuco",
+        "flag": "Pernambuco.webp"
+    },
+    {
+        "num": 18,
+        "name": "Piaui",
+        "flag": "Piaui.webp"
+    },
+    {
+        "num": 19,
+        "name": "Rio de Janeiro",
+        "flag": "RiodeJaneiro.webp"
+    },
+    {
+        "num": 20,
+        "name": "Rio Grande do Norte",
+        "flag": "RioGrandedoNorte.webp"
+    },
+    {
+        "num": 21,
+        "name": "Rio Grande do Sul",
+        "flag": "RioGrandedoSul.webp"
+    },
+    {
+        "num": 22,
+        "name": "Rondonia",
+        "flag": "Rondonia.webp"
+    },
+    {
+        "num": 23,
+        "name": "Roraima",
+        "flag": "Roraima.webp"
+    },
+    {
+        "num": 24,
+        "name": "Santa Catarina",
+        "flag": "SantaCatarina.webp"
+    },
+    {
+        "num": 25,
+        "name": "Sao Paulo",
+        "flag": "SaoPaulo.webp"
+    },
+    {
+        "num": 26,
+        "name": "Sergipe",
+        "flag": "Sergipe.webp"
+    },
+    {
+        "num": 27,
+        "name": "Tocantins",
+        "flag": "Tocantins.webp"
+    }
+]
