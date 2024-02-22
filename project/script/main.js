@@ -12,9 +12,9 @@ document.getElementById("incorrectScore").innerText = incorrectScore;
 let questions = flags.map((state) => state.name);
 // console.log(questions);
 
-function createFlags() {
+async function createFlags() {
   hideButton();
-  shuffle(flags);
+  await fetch (shuffle(flags));
 
   flags.forEach((flag) => {
     const img = flag.flag;
